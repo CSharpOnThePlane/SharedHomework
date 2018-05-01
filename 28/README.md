@@ -10,4 +10,4 @@
 
 4. Выполни [задание 4](https://github.com/UniumGames/Lessons/tree/master/10/04)
 
-5. Пройди третий уровень (Миддл) [игры-тренажера](https://cleancodegame.github.io/) по базовым правилам хорошего кода
+5. Пройди второй уровень (Джуниор) [игры-тренажера](https://cleancodegame.github.io/) по базовым правилам хорошего кода
